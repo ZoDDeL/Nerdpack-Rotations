@@ -38,7 +38,7 @@ bc1qzkuvnn82kchnwu029smtt22cgjeh8rfftqej3z
  
 
 ## Features
-* works now in every client language! (dispell isnt updated yet(maybe never) and still requires english wow client !!!)
+* works in every client language! (dispell isnt updated yet(maybe never) and still requires english wow client !!!)
 
 * force dps toggle (for solo play like questing or torgast. dont use it at dungeons raids!)
 * dispel party toggle
@@ -48,7 +48,7 @@ bc1qzkuvnn82kchnwu029smtt22cgjeh8rfftqej3z
 
  
 
-* ### in combat
+## in combat
 
 * #### hotkeys:
 
@@ -146,12 +146,12 @@ bc1qzkuvnn82kchnwu029smtt22cgjeh8rfftqej3z
         * Smite (while player mana >10%)
 
  
-
-self heal > aoe heal > tank heal > lowest heal
+* #### heal rotation (including 'miasma' debuff protection)
+    * aoe heal > tank heal > lowest heal (iam to lazy to list all stuff)
 
  
 
-## out of combat>>>
+## out of combat
 * #### hotkeys:
 
     * left alt = pause rotation
